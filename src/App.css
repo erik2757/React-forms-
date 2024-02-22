@@ -1,0 +1,23 @@
+body{ 
+  background-color: rgb(71, 102, 67);
+  color: black;
+ text-align: center;
+place-items: center;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+
+}
+.form { 
+ border-bottom: 4px solid black;
+}
+form > button{ 
+  background-color: rgb(197, 146, 29);
+}
+
+.auth{ 
+  border-top: 4px solid black;
+}
+.btn2 {
+  background-color: greenyellow;
+}
